@@ -3,7 +3,7 @@
 
 <p align="center">
   📍 Agra → Currently in Delhi <br>
-  💼 3+ Years Experience | 14+ Projects Delivered
+  💼 3+ Years Experience
 </p>
 
 ---
