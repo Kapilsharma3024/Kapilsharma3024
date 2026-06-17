@@ -97,7 +97,7 @@ Full Stack Developer with **4+ years of experience** designing and developing en
 
 # 🔥 Featured Projects
 
-## 🧑‍💼 NexHRM — HR Management Platform
+## 🧑‍💼 NexHRM — HR Management Platform : https://nex-hrm.vercel.app/
 
 * Recruiter Module
 * Campus Hiring Workflow
