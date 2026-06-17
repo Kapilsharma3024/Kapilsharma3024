@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kapil Sharma
 
-### Senior Full Stack Developer | Laravel • AWS • SaaS Architecture • API Engineering 🚀
+###                      Senior Full Stack Developer | Laravel • AWS • SaaS Architecture • API Engineering 🚀
 
 <p align="center">
 📍 Janakpuri, Delhi, India &nbsp;|&nbsp; 💼 4+ Years Experience &nbsp;|&nbsp; 🏗️ 18+ Projects Delivered
