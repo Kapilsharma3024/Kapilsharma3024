@@ -97,7 +97,7 @@ Full Stack Developer with **4+ years of experience** designing and developing en
 
 # 🔥 Featured Projects
 
-## 🧑‍💼 NexHRM — HR Management Platform : https://nex-hrm.vercel.app/
+## 🧑‍💼 NexHRM — HR Management Platform
 
 * Recruiter Module
 * Campus Hiring Workflow
@@ -110,6 +110,8 @@ Tech:
 `Laravel` `Vue.js` `React.js` `MySQL`
 
 ---
+Live:
+https://nex-hrm.vercel.app/
 
 ## 🏛 BUHS Entrance Exam Portal
 
